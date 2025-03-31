@@ -1,0 +1,336 @@
+{
+    "restaurants": [
+      {
+        "id": 1,
+        "name": "The Spice Factory",
+        "cuisine": "North Indian",
+        "rating": 4.3,
+        "deliveryTime": 28,
+        "priceForTwo": 400,
+        "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+        "offerText": "50% off up to ₹100",
+        "veg": false,
+        "address": "123 MG Road, Indira Nagar",
+        "distance": "2.5 km",
+        "products": [
+          {
+            "id": 101,
+            "name": "Butter Chicken",
+            "description": "Tender chicken pieces simmered in a rich, creamy tomato sauce",
+            "price": 320,
+            "imageUrl": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398",
+            "isVeg": false,
+            "isBestseller": true,
+            "category": "Main Course",
+            "customization": {
+              "spiceLevel": ["Low", "Medium", "High"],
+              "servingSize": ["Half", "Full"]
+            }
+          },
+          {
+            "id": 102,
+            "name": "Paneer Tikka Masala",
+            "description": "Grilled cottage cheese cubes in a spiced tomato gravy",
+            "price": 280,
+            "imageUrl": "https://images.unsplash.com/photo-1567188040759-fb8a254b3430",
+            "isVeg": true,
+            "category": "Main Course",
+            "customization": {
+              "spiceLevel": ["Low", "Medium", "High"]
+            }
+          },
+          {
+            "id": 103,
+            "name": "Dal Makhani",
+            "description": "Black lentils cooked overnight with butter and cream",
+            "price": 220,
+            "imageUrl": "https://images.unsplash.com/photo-1546833160-1ae5d9e69032",
+            "isVeg": true,
+            "category": "Main Course"
+          },
+          {
+            "id": 104,
+            "name": "Garlic Naan",
+            "description": "Leavened bread topped with garlic and butter",
+            "price": 50,
+            "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+            "isVeg": true,
+            "isBestseller": true,
+            "category": "Breads"
+          },
+          {
+            "id": 105,
+            "name": "Gulab Jamun",
+            "description": "Deep-fried milk solids soaked in sugar syrup",
+            "price": 120,
+            "imageUrl": "https://images.unsplash.com/photo-1605195340122-88c5d12f2e86",
+            "isVeg": true,
+            "category": "Desserts"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Pizza Paradise",
+        "cuisine": "Italian",
+        "rating": 4.5,
+        "deliveryTime": 32,
+        "priceForTwo": 600,
+        "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591",
+        "offerText": "Buy 1 Get 1 Free",
+        "veg": false,
+        "address": "456 Church Street, Koramangala",
+        "distance": "3.8 km",
+        "products": [
+          {
+            "id": 201,
+            "name": "Margherita Pizza",
+            "description": "Classic pizza with tomato sauce, mozzarella, and basil",
+            "price": 299,
+            "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002",
+            "isVeg": true,
+            "isBestseller": true,
+            "category": "Pizzas",
+            "customization": {
+              "size": ["Regular", "Medium", "Large"],
+              "crust": ["Thin", "Regular", "Cheese Burst"]
+            }
+          },
+          {
+            "id": 202,
+            "name": "Pepperoni Pizza",
+            "description": "Pizza topped with spicy pepperoni slices and mozzarella",
+            "price": 399,
+            "imageUrl": "https://images.unsplash.com/photo-1628840042765-356cda07504e",
+            "isVeg": false,
+            "category": "Pizzas",
+            "customization": {
+              "size": ["Regular", "Medium", "Large"],
+              "crust": ["Thin", "Regular", "Cheese Burst"]
+            }
+          },
+          {
+            "id": 203,
+            "name": "Garlic Breadsticks",
+            "description": "Freshly baked breadsticks with garlic butter",
+            "price": 169,
+            "imageUrl": "https://images.unsplash.com/photo-1619531038896-deaff53d151f",
+            "isVeg": true,
+            "category": "Sides"
+          },
+          {
+            "id": 204,
+            "name": "Pasta Alfredo",
+            "description": "Creamy pasta with parmesan cheese and herbs",
+            "price": 249,
+            "imageUrl": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a",
+            "isVeg": true,
+            "category": "Pasta"
+          },
+          {
+            "id": 205,
+            "name": "Choco Lava Cake",
+            "description": "Warm chocolate cake with a molten center",
+            "price": 129,
+            "imageUrl": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51",
+            "isVeg": true,
+            "isBestseller": true,
+            "category": "Desserts"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Wok & Roll",
+        "cuisine": "Chinese",
+        "rating": 4.1,
+        "deliveryTime": 25,
+        "priceForTwo": 350,
+        "imageUrl": "https://images.unsplash.com/photo-1548943487-a2e4e43b4853",
+        "offerText": "Free delivery",
+        "veg": false,
+        "address": "789 Brigade Road, Richmond Town",
+        "distance": "4.1 km",
+        "products": [
+          {
+            "id": 301,
+            "name": "Veg Fried Rice",
+            "description": "Stir-fried rice with mixed vegetables and soy sauce",
+            "price": 180,
+            "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b",
+            "isVeg": true,
+            "isBestseller": true,
+            "category": "Rice"
+          },
+          {
+            "id": 302,
+            "name": "Chicken Manchurian",
+            "description": "Fried chicken balls in a tangy, spicy sauce",
+            "price": 250,
+            "imageUrl": "https://images.unsplash.com/photo-1526318896980-cf78c088247c",
+            "isVeg": false,
+            "category": "Starters",
+            "customization": {
+              "spiceLevel": ["Low", "Medium", "High"]
+            }
+          },
+          {
+            "id": 303,
+            "name": "Hakka Noodles",
+            "description": "Stir-fried noodles with vegetables and soy sauce",
+            "price": 190,
+            "imageUrl": "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841",
+            "isVeg": true,
+            "category": "Noodles"
+          },
+          {
+            "id": 304,
+            "name": "Chilli Paneer",
+            "description": "Cottage cheese cubes in a spicy, tangy sauce",
+            "price": 220,
+            "imageUrl": "https://images.unsplash.com/photo-1567337710282-00832b415979",
+            "isVeg": true,
+            "category": "Starters",
+            "customization": {
+              "spiceLevel": ["Low", "Medium", "High"]
+            }
+          },
+          {
+            "id": 305,
+            "name": "Sweet Corn Soup",
+            "description": "Creamy soup with sweet corn kernels",
+            "price": 120,
+            "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd",
+            "isVeg": true,
+            "category": "Soups"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "The South Side",
+        "cuisine": "South Indian",
+        "rating": 4.7,
+        "deliveryTime": 18,
+        "priceForTwo": 250,
+        "imageUrl": "https://images.unsplash.com/photo-1630409351241-e90e7f5e434d",
+        "offerText": "20% off on orders above ₹300",
+        "veg": true,
+        "address": "45 Residency Road, Shanthinagar",
+        "distance": "1.8 km",
+        "products": [
+          {
+            "id": 401,
+            "name": "Masala Dosa",
+            "description": "Crispy rice crepe filled with spiced potato filling",
+            "price": 120,
+            "imageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+            "isVeg": true,
+            "isBestseller": true,
+            "category": "Breakfast"
+          },
+          {
+            "id": 402,
+            "name": "Idli Sambar",
+            "description": "Steamed rice cakes served with lentil soup and chutney",
+            "price": 90,
+            "imageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+            "isVeg": true,
+            "category": "Breakfast"
+          },
+          {
+            "id": 403,
+            "name": "Mysore Pak",
+            "description": "Traditional sweet made with gram flour, ghee, and sugar",
+            "price": 150,
+            "imageUrl": "https://images.unsplash.com/photo-1567337710282-00832b415979",
+            "isVeg": true,
+            "category": "Desserts"
+          },
+          {
+            "id": 404,
+            "name": "Filter Coffee",
+            "description": "Strong brewed coffee with milk and sugar",
+            "price": 60,
+            "imageUrl": "https://images.unsplash.com/photo-1610889556528-9a770e32642f",
+            "isVeg": true,
+            "category": "Beverages"
+          },
+          {
+            "id": 405,
+            "name": "Vada",
+            "description": "Crispy fried lentil donuts served with chutney",
+            "price": 80,
+            "imageUrl": "https://images.unsplash.com/photo-1567337710282-00832b415979",
+            "isVeg": true,
+            "category": "Snacks"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Burger Barn",
+        "cuisine": "Fast Food",
+        "rating": 4.0,
+        "deliveryTime": 22,
+        "priceForTwo": 450,
+        "imageUrl": "https://images.unsplash.com/photo-1565299507177-b0ac66763828",
+        "offerText": "Use code FIRST for 40% off",
+        "veg": false,
+        "address": "22 Lavelle Road, Central Bangalore",
+        "distance": "3.0 km",
+        "products": [
+          {
+            "id": 501,
+            "name": "Classic Cheeseburger",
+            "description": "Beef patty with cheese, lettuce, tomato, and special sauce",
+            "price": 199,
+            "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
+            "isVeg": false,
+            "isBestseller": true,
+            "category": "Burgers",
+            "customization": {
+              "extras": ["Cheese", "Bacon", "Egg"]
+            }
+          },
+          {
+            "id": 502,
+            "name": "Veg Supreme Burger",
+            "description": "Plant-based patty with lettuce, tomato, and mayo",
+            "price": 179,
+            "imageUrl": "https://images.unsplash.com/photo-1550547660-d9450f859349",
+            "isVeg": true,
+            "category": "Burgers"
+          },
+          {
+            "id": 503,
+            "name": "French Fries",
+            "description": "Crispy golden fries with a sprinkle of salt",
+            "price": 99,
+            "imageUrl": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877",
+            "isVeg": true,
+            "isBestseller": true,
+            "category": "Sides"
+          },
+          {
+            "id": 504,
+            "name": "Chocolate Milkshake",
+            "description": "Thick, creamy milkshake with chocolate ice cream",
+            "price": 149,
+            "imageUrl": "https://images.unsplash.com/photo-1567206563064-6f60f40a2b57",
+            "isVeg": true,
+            "category": "Beverages"
+          },
+          {
+            "id": 505,
+            "name": "Onion Rings",
+            "description": "Crispy battered onion rings served with dipping sauce",
+            "price": 119,
+            "imageUrl": "https://images.unsplash.com/photo-1639024471283-05bce8db4d42",
+            "isVeg": true,
+            "category": "Sides"
+          }
+        ]
+      }
+    ]
+  }
