@@ -3,7 +3,11 @@
     {
       "id": 1,
       "name": "The Spice Garden",
-      "cuisines": ["North Indian", "Mughlai", "Biryani"],
+      "cuisines": [
+        "North Indian",
+        "Mughlai",
+        "Biryani"
+      ],
       "rating": 4.2,
       "delivery_time": 35,
       "price_for_two": 500,
@@ -23,7 +27,10 @@
       "favorite": false,
       "delivery_fee": 35,
       "is_open": true,
-      "tags": ["Recommended", "Top Rated"],
+      "tags": [
+        "Recommended",
+        "Top Rated"
+      ],
       "offers": [
         {
           "id": 101,
@@ -48,27 +55,47 @@
         {
           "id": 1001,
           "name": "Recommended",
-          "items": [1, 3, 5, 7, 9]
+          "items": [
+            1,
+            3,
+            5,
+            7,
+            9
+          ]
         },
         {
           "id": 1002,
           "name": "Starters",
-          "items": [1, 2, 3]
+          "items": [
+            1,
+            2,
+            3
+          ]
         },
         {
           "id": 1003,
           "name": "Main Course",
-          "items": [4, 5, 6, 7]
+          "items": [
+            4,
+            5,
+            6,
+            7
+          ]
         },
         {
           "id": 1004,
           "name": "Breads",
-          "items": [8, 9]
+          "items": [
+            8,
+            9
+          ]
         },
         {
           "id": 1005,
           "name": "Desserts",
-          "items": [10]
+          "items": [
+            10
+          ]
         }
       ],
       "items": [
@@ -86,7 +113,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.5,
-          "tags": ["Must Try", "Chef's Special"],
+          "tags": [
+            "Must Try",
+            "Chef's Special"
+          ],
           "addons": [
             {
               "id": 1,
@@ -114,7 +144,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.7,
-          "tags": ["Spicy", "Popular"],
+          "tags": [
+            "Spicy",
+            "Popular"
+          ],
           "addons": [
             {
               "id": 3,
@@ -137,7 +170,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.2,
-          "tags": ["Crispy", "Starter"],
+          "tags": [
+            "Crispy",
+            "Starter"
+          ],
           "addons": [
             {
               "id": 4,
@@ -160,7 +196,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.8,
-          "tags": ["Classic", "Must Try"],
+          "tags": [
+            "Classic",
+            "Must Try"
+          ],
           "addons": [
             {
               "id": 5,
@@ -183,7 +222,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.3,
-          "tags": ["Healthy", "Popular"],
+          "tags": [
+            "Healthy",
+            "Popular"
+          ],
           "addons": [
             {
               "id": 6,
@@ -206,7 +248,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.4,
-          "tags": ["Spicy", "Popular"],
+          "tags": [
+            "Spicy",
+            "Popular"
+          ],
           "addons": [
             {
               "id": 7,
@@ -229,7 +274,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.1,
-          "tags": ["Biryani", "Bestseller"],
+          "tags": [
+            "Biryani",
+            "Bestseller"
+          ],
           "addons": [
             {
               "id": 8,
@@ -252,7 +300,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.6,
-          "tags": ["Must Try", "Bread"],
+          "tags": [
+            "Must Try",
+            "Bread"
+          ],
           "addons": [
             {
               "id": 9,
@@ -275,7 +326,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.5,
-          "tags": ["Popular", "Bread"],
+          "tags": [
+            "Popular",
+            "Bread"
+          ],
           "addons": []
         },
         {
@@ -292,7 +346,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.9,
-          "tags": ["Sweet", "Dessert"],
+          "tags": [
+            "Sweet",
+            "Dessert"
+          ],
           "addons": [
             {
               "id": 10,
@@ -306,7 +363,11 @@
     {
       "id": 2,
       "name": "Pizza Paradise",
-      "cuisines": ["Pizza", "Italian", "Fast Food"],
+      "cuisines": [
+        "Pizza",
+        "Italian",
+        "Fast Food"
+      ],
       "rating": 4.5,
       "delivery_time": 25,
       "price_for_two": 450,
@@ -326,7 +387,10 @@
       "favorite": true,
       "delivery_fee": 30,
       "is_open": true,
-      "tags": ["Premium", "Fast Delivery"],
+      "tags": [
+        "Premium",
+        "Fast Delivery"
+      ],
       "offers": [
         {
           "id": 201,
@@ -351,27 +415,47 @@
         {
           "id": 2001,
           "name": "Recommended",
-          "items": [11, 13, 15, 18, 20]
+          "items": [
+            11,
+            13,
+            15,
+            18,
+            20
+          ]
         },
         {
           "id": 2002,
           "name": "Veg Pizzas",
-          "items": [11, 12, 13]
+          "items": [
+            11,
+            12,
+            13
+          ]
         },
         {
           "id": 2003,
           "name": "Non-Veg Pizzas",
-          "items": [14, 15, 16]
+          "items": [
+            14,
+            15,
+            16
+          ]
         },
         {
           "id": 2004,
           "name": "Sides",
-          "items": [17, 18, 19]
+          "items": [
+            17,
+            18,
+            19
+          ]
         },
         {
           "id": 2005,
           "name": "Beverages",
-          "items": [20]
+          "items": [
+            20
+          ]
         }
       ],
       "items": [
@@ -389,7 +473,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.6,
-          "tags": ["Classic", "Bestseller"],
+          "tags": [
+            "Classic",
+            "Bestseller"
+          ],
           "addons": [
             {
               "id": 11,
@@ -417,7 +504,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.4,
-          "tags": ["Loaded", "Healthy"],
+          "tags": [
+            "Loaded",
+            "Healthy"
+          ],
           "addons": [
             {
               "id": 13,
@@ -440,7 +530,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.7,
-          "tags": ["Spicy", "Must Try"],
+          "tags": [
+            "Spicy",
+            "Must Try"
+          ],
           "addons": [
             {
               "id": 14,
@@ -463,7 +556,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.5,
-          "tags": ["Popular", "Non-Veg"],
+          "tags": [
+            "Popular",
+            "Non-Veg"
+          ],
           "addons": [
             {
               "id": 15,
@@ -486,7 +582,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.8,
-          "tags": ["Bestseller", "Classic"],
+          "tags": [
+            "Bestseller",
+            "Classic"
+          ],
           "addons": [
             {
               "id": 16,
@@ -509,7 +608,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.3,
-          "tags": ["Tangy", "Non-Veg"],
+          "tags": [
+            "Tangy",
+            "Non-Veg"
+          ],
           "addons": [
             {
               "id": 17,
@@ -532,7 +634,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.6,
-          "tags": ["Side", "Bestseller"],
+          "tags": [
+            "Side",
+            "Bestseller"
+          ],
           "addons": [
             {
               "id": 18,
@@ -555,7 +660,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.2,
-          "tags": ["Side", "Crispy"],
+          "tags": [
+            "Side",
+            "Crispy"
+          ],
           "addons": [
             {
               "id": 19,
@@ -578,7 +686,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.7,
-          "tags": ["Spicy", "Side"],
+          "tags": [
+            "Spicy",
+            "Side"
+          ],
           "addons": [
             {
               "id": 20,
@@ -601,7 +712,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.9,
-          "tags": ["Beverage", "Cold"],
+          "tags": [
+            "Beverage",
+            "Cold"
+          ],
           "addons": []
         }
       ]
@@ -609,7 +723,11 @@
     {
       "id": 3,
       "name": "Dragon Wok",
-      "cuisines": ["Chinese", "Thai", "Asian"],
+      "cuisines": [
+        "Chinese",
+        "Thai",
+        "Asian"
+      ],
       "rating": 4.0,
       "delivery_time": 40,
       "price_for_two": 350,
@@ -629,7 +747,10 @@
       "favorite": false,
       "delivery_fee": 40,
       "is_open": true,
-      "tags": ["Authentic", "Value for Money"],
+      "tags": [
+        "Authentic",
+        "Value for Money"
+      ],
       "offers": [
         {
           "id": 301,
@@ -654,27 +775,47 @@
         {
           "id": 3001,
           "name": "Recommended",
-          "items": [21, 23, 25, 28, 30]
+          "items": [
+            21,
+            23,
+            25,
+            28,
+            30
+          ]
         },
         {
           "id": 3002,
           "name": "Starters",
-          "items": [21, 22, 23]
+          "items": [
+            21,
+            22,
+            23
+          ]
         },
         {
           "id": 3003,
           "name": "Main Course",
-          "items": [24, 25, 26, 27]
+          "items": [
+            24,
+            25,
+            26,
+            27
+          ]
         },
         {
           "id": 3004,
           "name": "Rice & Noodles",
-          "items": [28, 29]
+          "items": [
+            28,
+            29
+          ]
         },
         {
           "id": 3005,
           "name": "Soups",
-          "items": [30]
+          "items": [
+            30
+          ]
         }
       ],
       "items": [
@@ -692,7 +833,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.3,
-          "tags": ["Crispy", "Starter"],
+          "tags": [
+            "Crispy",
+            "Starter"
+          ],
           "addons": [
             {
               "id": 21,
@@ -715,7 +859,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.5,
-          "tags": ["Popular", "Steamed"],
+          "tags": [
+            "Popular",
+            "Steamed"
+          ],
           "addons": [
             {
               "id": 22,
@@ -738,7 +885,11 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.7,
-          "tags": ["Spicy", "Sweet", "Bestseller"],
+          "tags": [
+            "Spicy",
+            "Sweet",
+            "Bestseller"
+          ],
           "addons": []
         },
         {
@@ -755,7 +906,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.2,
-          "tags": ["Popular", "Spicy"],
+          "tags": [
+            "Popular",
+            "Spicy"
+          ],
           "addons": [
             {
               "id": 23,
@@ -778,7 +932,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.6,
-          "tags": ["Spicy", "Authentic"],
+          "tags": [
+            "Spicy",
+            "Authentic"
+          ],
           "addons": []
         },
         {
@@ -795,7 +952,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.1,
-          "tags": ["Sweet", "Tangy"],
+          "tags": [
+            "Sweet",
+            "Tangy"
+          ],
           "addons": []
         },
         {
@@ -812,7 +972,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.4,
-          "tags": ["Popular", "Quick"],
+          "tags": [
+            "Popular",
+            "Quick"
+          ],
           "addons": [
             {
               "id": 24,
@@ -840,7 +1003,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.3,
-          "tags": ["Classic", "Filling"],
+          "tags": [
+            "Classic",
+            "Filling"
+          ],
           "addons": [
             {
               "id": 26,
@@ -863,7 +1029,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.5,
-          "tags": ["Spicy", "Popular"],
+          "tags": [
+            "Spicy",
+            "Popular"
+          ],
           "addons": [
             {
               "id": 27,
@@ -891,7 +1060,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.0,
-          "tags": ["Soup", "Spicy"],
+          "tags": [
+            "Soup",
+            "Spicy"
+          ],
           "addons": [
             {
               "id": 29,
@@ -905,7 +1077,11 @@
     {
       "id": 4,
       "name": "Sushi Express",
-      "cuisines": ["Japanese", "Sushi", "Asian"],
+      "cuisines": [
+        "Japanese",
+        "Sushi",
+        "Asian"
+      ],
       "rating": 4.6,
       "delivery_time": 35,
       "price_for_two": 650,
@@ -925,7 +1101,10 @@
       "favorite": false,
       "delivery_fee": 45,
       "is_open": true,
-      "tags": ["Premium", "Authentic"],
+      "tags": [
+        "Premium",
+        "Authentic"
+      ],
       "offers": [
         {
           "id": 401,
@@ -950,27 +1129,47 @@
         {
           "id": 4001,
           "name": "Recommended",
-          "items": [31, 33, 35, 37, 40]
+          "items": [
+            31,
+            33,
+            35,
+            37,
+            40
+          ]
         },
         {
           "id": 4002,
           "name": "Sushi & Sashimi",
-          "items": [31, 32, 33, 34]
+          "items": [
+            31,
+            32,
+            33,
+            34
+          ]
         },
         {
           "id": 4003,
           "name": "Main Course",
-          "items": [35, 36, 37]
+          "items": [
+            35,
+            36,
+            37
+          ]
         },
         {
           "id": 4004,
           "name": "Sides & Appetizers",
-          "items": [38, 39]
+          "items": [
+            38,
+            39
+          ]
         },
         {
           "id": 4005,
           "name": "Beverages",
-          "items": [40]
+          "items": [
+            40
+          ]
         }
       ],
       "items": [
@@ -988,7 +1187,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.8,
-          "tags": ["Fresh", "Premium"],
+          "tags": [
+            "Fresh",
+            "Premium"
+          ],
           "addons": [
             {
               "id": 31,
@@ -1016,7 +1218,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.5,
-          "tags": ["Popular", "Classic"],
+          "tags": [
+            "Popular",
+            "Classic"
+          ],
           "addons": [
             {
               "id": 33,
@@ -1039,7 +1244,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.7,
-          "tags": ["Bestseller", "Special"],
+          "tags": [
+            "Bestseller",
+            "Special"
+          ],
           "addons": []
         },
         {
@@ -1056,7 +1264,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.9,
-          "tags": ["Premium", "Fresh"],
+          "tags": [
+            "Premium",
+            "Fresh"
+          ],
           "addons": [
             {
               "id": 34,
@@ -1079,7 +1290,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.4,
-          "tags": ["Main Course", "Popular"],
+          "tags": [
+            "Main Course",
+            "Popular"
+          ],
           "addons": [
             {
               "id": 35,
@@ -1102,7 +1316,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.2,
-          "tags": ["Crispy", "Vegetarian"],
+          "tags": [
+            "Crispy",
+            "Vegetarian"
+          ],
           "addons": [
             {
               "id": 36,
@@ -1125,7 +1342,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.7,
-          "tags": ["Hot", "Comfort Food"],
+          "tags": [
+            "Hot",
+            "Comfort Food"
+          ],
           "addons": [
             {
               "id": 37,
@@ -1153,7 +1373,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.3,
-          "tags": ["Healthy", "Appetizer"],
+          "tags": [
+            "Healthy",
+            "Appetizer"
+          ],
           "addons": []
         },
         {
@@ -1170,7 +1393,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.6,
-          "tags": ["Popular", "Appetizer"],
+          "tags": [
+            "Popular",
+            "Appetizer"
+          ],
           "addons": [
             {
               "id": 39,
@@ -1193,7 +1419,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.4,
-          "tags": ["Beverage", "Hot"],
+          "tags": [
+            "Beverage",
+            "Hot"
+          ],
           "addons": []
         }
       ]
@@ -1201,7 +1430,11 @@
     {
       "id": 5,
       "name": "Mexican Fiesta",
-      "cuisines": ["Mexican", "Tex-Mex", "Latin American"],
+      "cuisines": [
+        "Mexican",
+        "Tex-Mex",
+        "Latin American"
+      ],
       "rating": 4.3,
       "delivery_time": 30,
       "price_for_two": 550,
@@ -1221,7 +1454,10 @@
       "favorite": false,
       "delivery_fee": 35,
       "is_open": true,
-      "tags": ["Spicy", "Authentic"],
+      "tags": [
+        "Spicy",
+        "Authentic"
+      ],
       "offers": [
         {
           "id": 501,
@@ -1246,27 +1482,47 @@
         {
           "id": 5001,
           "name": "Recommended",
-          "items": [41, 43, 45, 47, 49]
+          "items": [
+            41,
+            43,
+            45,
+            47,
+            49
+          ]
         },
         {
           "id": 5002,
           "name": "Starters",
-          "items": [41, 42, 43]
+          "items": [
+            41,
+            42,
+            43
+          ]
         },
         {
           "id": 5003,
           "name": "Main Course",
-          "items": [44, 45, 46]
+          "items": [
+            44,
+            45,
+            46
+          ]
         },
         {
           "id": 5004,
           "name": "Sides & Accompaniments",
-          "items": [47, 48]
+          "items": [
+            47,
+            48
+          ]
         },
         {
           "id": 5005,
           "name": "Desserts & Beverages",
-          "items": [49, 50]
+          "items": [
+            49,
+            50
+          ]
         }
       ],
       "items": [
@@ -1284,7 +1540,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.7,
-          "tags": ["Popular", "Shareable"],
+          "tags": [
+            "Popular",
+            "Shareable"
+          ],
           "addons": [
             {
               "id": 41,
@@ -1312,7 +1571,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.5,
-          "tags": ["Bestseller", "Cheesy"],
+          "tags": [
+            "Bestseller",
+            "Cheesy"
+          ],
           "addons": [
             {
               "id": 43,
@@ -1340,7 +1602,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.3,
-          "tags": ["Fresh", "Healthy"],
+          "tags": [
+            "Fresh",
+            "Healthy"
+          ],
           "addons": [
             {
               "id": 45,
@@ -1363,7 +1628,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.6,
-          "tags": ["Filling", "Bestseller"],
+          "tags": [
+            "Filling",
+            "Bestseller"
+          ],
           "addons": [
             {
               "id": 46,
@@ -1391,7 +1659,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.2,
-          "tags": ["Healthy", "Sizzling"],
+          "tags": [
+            "Healthy",
+            "Sizzling"
+          ],
           "addons": [
             {
               "id": 48,
@@ -1414,7 +1685,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.5,
-          "tags": ["Authentic", "Spicy"],
+          "tags": [
+            "Authentic",
+            "Spicy"
+          ],
           "addons": [
             {
               "id": 49,
@@ -1437,7 +1711,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.0,
-          "tags": ["Side", "Essential"],
+          "tags": [
+            "Side",
+            "Essential"
+          ],
           "addons": []
         },
         {
@@ -1454,7 +1731,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.1,
-          "tags": ["Side", "Traditional"],
+          "tags": [
+            "Side",
+            "Traditional"
+          ],
           "addons": []
         },
         {
@@ -1471,7 +1751,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.7,
-          "tags": ["Sweet", "Dessert"],
+          "tags": [
+            "Sweet",
+            "Dessert"
+          ],
           "addons": [
             {
               "id": 50,
@@ -1494,7 +1777,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.6,
-          "tags": ["Beverage", "Refreshing"],
+          "tags": [
+            "Beverage",
+            "Refreshing"
+          ],
           "addons": []
         }
       ]
@@ -1502,7 +1788,11 @@
     {
       "id": 6,
       "name": "Bella Italia",
-      "cuisines": ["Italian", "Mediterranean", "Pasta"],
+      "cuisines": [
+        "Italian",
+        "Mediterranean",
+        "Pasta"
+      ],
       "rating": 4.7,
       "delivery_time": 40,
       "price_for_two": 700,
@@ -1522,7 +1812,10 @@
       "favorite": true,
       "delivery_fee": 40,
       "is_open": true,
-      "tags": ["Authentic", "Fine Dining"],
+      "tags": [
+        "Authentic",
+        "Fine Dining"
+      ],
       "offers": [
         {
           "id": 601,
@@ -1547,27 +1840,47 @@
         {
           "id": 6001,
           "name": "Recommended",
-          "items": [51, 53, 55, 58, 60]
+          "items": [
+            51,
+            53,
+            55,
+            58,
+            60
+          ]
         },
         {
           "id": 6002,
           "name": "Starters & Antipasti",
-          "items": [51, 52, 53]
+          "items": [
+            51,
+            52,
+            53
+          ]
         },
         {
           "id": 6003,
           "name": "Pasta & Risotto",
-          "items": [54, 55, 56]
+          "items": [
+            54,
+            55,
+            56
+          ]
         },
         {
           "id": 6004,
           "name": "Pizza",
-          "items": [57, 58]
+          "items": [
+            57,
+            58
+          ]
         },
         {
           "id": 6005,
           "name": "Desserts & Beverages",
-          "items": [59, 60]
+          "items": [
+            59,
+            60
+          ]
         }
       ],
       "items": [
@@ -1585,7 +1898,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.5,
-          "tags": ["Classic", "Starter"],
+          "tags": [
+            "Classic",
+            "Starter"
+          ],
           "addons": [
             {
               "id": 51,
@@ -1608,7 +1924,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.4,
-          "tags": ["Fresh", "Healthy"],
+          "tags": [
+            "Fresh",
+            "Healthy"
+          ],
           "addons": [
             {
               "id": 52,
@@ -1631,7 +1950,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.6,
-          "tags": ["Popular", "Cheesy"],
+          "tags": [
+            "Popular",
+            "Cheesy"
+          ],
           "addons": [
             {
               "id": 53,
@@ -1654,7 +1976,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.8,
-          "tags": ["Classic", "Bestseller"],
+          "tags": [
+            "Classic",
+            "Bestseller"
+          ],
           "addons": [
             {
               "id": 54,
@@ -1677,7 +2002,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.3,
-          "tags": ["Spicy", "Vegetarian"],
+          "tags": [
+            "Spicy",
+            "Vegetarian"
+          ],
           "addons": [
             {
               "id": 55,
@@ -1705,7 +2033,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.7,
-          "tags": ["Creamy", "Premium"],
+          "tags": [
+            "Creamy",
+            "Premium"
+          ],
           "addons": [
             {
               "id": 57,
@@ -1728,7 +2059,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.6,
-          "tags": ["Classic", "Simple"],
+          "tags": [
+            "Classic",
+            "Simple"
+          ],
           "addons": [
             {
               "id": 58,
@@ -1756,7 +2090,10 @@
           "serves": "2 people",
           "availability": true,
           "rating": 4.9,
-          "tags": ["Premium", "Cheesy"],
+          "tags": [
+            "Premium",
+            "Cheesy"
+          ],
           "addons": [
             {
               "id": 60,
@@ -1779,7 +2116,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.8,
-          "tags": ["Dessert", "Classic"],
+          "tags": [
+            "Dessert",
+            "Classic"
+          ],
           "addons": []
         },
         {
@@ -1796,7 +2136,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.5,
-          "tags": ["Dessert", "Coffee"],
+          "tags": [
+            "Dessert",
+            "Coffee"
+          ],
           "addons": [
             {
               "id": 61,
@@ -1810,7 +2153,11 @@
     {
       "id": 7,
       "name": "Burger Bonanza",
-      "cuisines": ["American", "Fast Food", "Burgers"],
+      "cuisines": [
+        "American",
+        "Fast Food",
+        "Burgers"
+      ],
       "rating": 4.0,
       "delivery_time": 28,
       "price_for_two": 380,
@@ -1830,7 +2177,10 @@
       "favorite": false,
       "delivery_fee": 20,
       "is_open": true,
-      "tags": ["Fast", "Budget Friendly"],
+      "tags": [
+        "Fast",
+        "Budget Friendly"
+      ],
       "offers": [
         {
           "id": 701,
@@ -1855,22 +2205,41 @@
         {
           "id": 7001,
           "name": "Recommended",
-          "items": [71, 73, 76, 78, 80]
+          "items": [
+            71,
+            73,
+            76,
+            78,
+            80
+          ]
         },
         {
           "id": 7002,
           "name": "Burgers",
-          "items": [71, 72, 73, 74, 75]
+          "items": [
+            71,
+            72,
+            73,
+            74,
+            75
+          ]
         },
         {
           "id": 7003,
           "name": "Sides",
-          "items": [76, 77, 78]
+          "items": [
+            76,
+            77,
+            78
+          ]
         },
         {
           "id": 7004,
           "name": "Beverages",
-          "items": [79, 80]
+          "items": [
+            79,
+            80
+          ]
         }
       ],
       "items": [
@@ -1888,7 +2257,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.5,
-          "tags": ["Bestseller", "Classic"],
+          "tags": [
+            "Bestseller",
+            "Classic"
+          ],
           "addons": [
             {
               "id": 711,
@@ -1916,7 +2288,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.0,
-          "tags": ["Vegetarian", "Healthy"],
+          "tags": [
+            "Vegetarian",
+            "Healthy"
+          ],
           "addons": [
             {
               "id": 721,
@@ -1944,7 +2319,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.7,
-          "tags": ["Premium", "Bestseller"],
+          "tags": [
+            "Premium",
+            "Bestseller"
+          ],
           "addons": [
             {
               "id": 731,
@@ -1972,7 +2350,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.2,
-          "tags": ["Spicy", "Chicken"],
+          "tags": [
+            "Spicy",
+            "Chicken"
+          ],
           "addons": [
             {
               "id": 741,
@@ -2000,7 +2381,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.3,
-          "tags": ["Gourmet", "Specialty"],
+          "tags": [
+            "Gourmet",
+            "Specialty"
+          ],
           "addons": [
             {
               "id": 751,
@@ -2028,7 +2412,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.6,
-          "tags": ["Classic", "Side"],
+          "tags": [
+            "Classic",
+            "Side"
+          ],
           "addons": [
             {
               "id": 761,
@@ -2056,7 +2443,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.0,
-          "tags": ["Crispy", "Side"],
+          "tags": [
+            "Crispy",
+            "Side"
+          ],
           "addons": [
             {
               "id": 771,
@@ -2079,7 +2469,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.4,
-          "tags": ["Kids Favorite", "Side"],
+          "tags": [
+            "Kids Favorite",
+            "Side"
+          ],
           "addons": [
             {
               "id": 781,
@@ -2107,7 +2500,10 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.5,
-          "tags": ["Sweet", "Beverage"],
+          "tags": [
+            "Sweet",
+            "Beverage"
+          ],
           "addons": [
             {
               "id": 791,
@@ -2135,64 +2531,1868 @@
           "serves": "1 person",
           "availability": true,
           "rating": 4.8,
-          "tags": ["Refreshing", "Beverage"],
+          "tags": [
+            "Refreshing",
+            "Beverage"
+          ],
           "addons": []
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Sweet Sensations",
+      "cuisines": [
+        "Desserts",
+        "Ice Cream",
+        "Bakery"
+      ],
+      "rating": 4.6,
+      "delivery_time": 22,
+      "price_for_two": 300,
+      "discount": {
+        "type": "PERCENTAGE",
+        "value": 30,
+        "max_discount": 90,
+        "description": "30% off up to ₹90"
+      },
+      "address": "15 Sugar Lane, Dessert District",
+      "image_url": "https://images.unsplash.com/photo-1551024506-0bccd828d307",
+      "cover_image": "https://images.unsplash.com/photo-1587314168485-3236d6710814",
+      "logo_image": "https://images.unsplash.com/photo-1536599524557-87f147ccd78b",
+      "pure_veg": true,
+      "promoted": true,
+      "new_arrival": false,
+      "favorite": true,
+      "delivery_fee": 25,
+      "is_open": true,
+      "tags": [
+        "Desserts",
+        "Quick Delivery"
+      ],
+      "offers": [
+        {
+          "id": 801,
+          "description": "Free brownie on orders above ₹350",
+          "code": "SWEETTREAT",
+          "discount_type": "ITEM",
+          "discount_value": 70,
+          "min_order_value": 350,
+          "max_discount": 70
+        },
+        {
+          "id": 802,
+          "description": "₹75 off on orders above ₹400",
+          "code": "SWEET75",
+          "discount_type": "FLAT",
+          "discount_value": 75,
+          "min_order_value": 400,
+          "max_discount": 75
+        }
+      ],
+      "menu_categories": [
+        {
+          "id": 8001,
+          "name": "Recommended",
+          "items": [
+            81,
+            82,
+            85,
+            88,
+            90
+          ]
+        },
+        {
+          "id": 8002,
+          "name": "Ice Cream",
+          "items": [
+            81,
+            82,
+            83
+          ]
+        },
+        {
+          "id": 8003,
+          "name": "Cakes",
+          "items": [
+            84,
+            85,
+            86
+          ]
+        },
+        {
+          "id": 8004,
+          "name": "Hot Desserts",
+          "items": [
+            87,
+            88
+          ]
+        },
+        {
+          "id": 8005,
+          "name": "Beverages",
+          "items": [
+            89,
+            90
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": 81,
+          "name": "Belgian Chocolate Ice Cream",
+          "description": "Rich and creamy Belgian chocolate ice cream with chocolate chunks",
+          "price": 120,
+          "discounted_price": 84,
+          "image_url": "https://images.unsplash.com/photo-1563805042-7684c019e1cb",
+          "veg": true,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": true,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.8,
+          "tags": [
+            "Premium",
+            "Bestseller"
+          ],
+          "addons": [
+            {
+              "id": 811,
+              "name": "Chocolate Sauce",
+              "price": 20
+            },
+            {
+              "id": 812,
+              "name": "Sprinkles",
+              "price": 15
+            }
+          ]
+        },
+        {
+          "id": 82,
+          "name": "Vanilla Bean Ice Cream",
+          "description": "Classic vanilla bean ice cream made with real vanilla pods",
+          "price": 100,
+          "discounted_price": 70,
+          "image_url": "https://images.unsplash.com/photo-1560008581-09826d1de69e",
+          "veg": true,
+          "bestseller": false,
+          "spicy_level": 0,
+          "customizable": true,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.5,
+          "tags": [
+            "Classic",
+            "Favorite"
+          ],
+          "addons": [
+            {
+              "id": 821,
+              "name": "Caramel Sauce",
+              "price": 20
+            },
+            {
+              "id": 822,
+              "name": "Brownie Bits",
+              "price": 25
+            }
+          ]
+        },
+        {
+          "id": 83,
+          "name": "Strawberry Sundae",
+          "description": "Strawberry ice cream with fresh strawberry compote and whipped cream",
+          "price": 150,
+          "discounted_price": 105,
+          "image_url": "https://images.unsplash.com/photo-1563805042-264eb35806fc",
+          "veg": true,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": true,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.7,
+          "tags": [
+            "Fruity",
+            "Popular"
+          ],
+          "addons": [
+            {
+              "id": 831,
+              "name": "Extra Strawberries",
+              "price": 30
+            },
+            {
+              "id": 832,
+              "name": "Wafer Sticks",
+              "price": 15
+            }
+          ]
+        },
+        {
+          "id": 84,
+          "name": "Red Velvet Cake",
+          "description": "Classic red velvet cake with cream cheese frosting",
+          "price": 180,
+          "discounted_price": 126,
+          "image_url": "https://images.unsplash.com/photo-1586788224331-947f68671cf1",
+          "veg": true,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": false,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.6,
+          "tags": [
+            "Popular",
+            "Classic"
+          ],
+          "addons": [
+            {
+              "id": 841,
+              "name": "Extra Frosting",
+              "price": 25
+            }
+          ]
+        },
+        {
+          "id": 85,
+          "name": "Chocolate Truffle Cake",
+          "description": "Decadent chocolate cake with rich truffle ganache",
+          "price": 220,
+          "discounted_price": 154,
+          "image_url": "https://images.unsplash.com/photo-1605807646983-377bc5a76493",
+          "veg": true,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": false,
+          "serves": "2 people",
+          "availability": true,
+          "rating": 4.9,
+          "tags": [
+            "Premium",
+            "Bestseller"
+          ],
+          "addons": [
+            {
+              "id": 851,
+              "name": "Chocolate Decoration",
+              "price": 30
+            },
+            {
+              "id": 852,
+              "name": "Fresh Berries",
+              "price": 40
+            }
+          ]
+        },
+        {
+          "id": 86,
+          "name": "Blueberry Cheesecake",
+          "description": "Creamy cheesecake topped with blueberry compote",
+          "price": 200,
+          "discounted_price": 140,
+          "image_url": "https://images.unsplash.com/photo-1533134242443-d4fd5107340c",
+          "veg": true,
+          "bestseller": false,
+          "spicy_level": 0,
+          "customizable": false,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.5,
+          "tags": [
+            "Creamy",
+            "Fruity"
+          ],
+          "addons": [
+            {
+              "id": 861,
+              "name": "Extra Blueberry Topping",
+              "price": 35
+            }
+          ]
+        },
+        {
+          "id": 87,
+          "name": "Chocolate Lava Cake",
+          "description": "Warm chocolate cake with molten chocolate center",
+          "price": 160,
+          "discounted_price": 112,
+          "image_url": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c",
+          "veg": true,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": true,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.8,
+          "tags": [
+            "Hot",
+            "Bestseller"
+          ],
+          "addons": [
+            {
+              "id": 871,
+              "name": "Vanilla Ice Cream",
+              "price": 40
+            },
+            {
+              "id": 872,
+              "name": "Caramel Sauce",
+              "price": 20
+            }
+          ]
+        },
+        {
+          "id": 88,
+          "name": "Apple Crumble",
+          "description": "Warm baked apples with cinnamon crumble topping",
+          "price": 150,
+          "discounted_price": 105,
+          "image_url": "https://images.unsplash.com/photo-1602351447937-745cb720612f",
+          "veg": true,
+          "bestseller": false,
+          "spicy_level": 0,
+          "customizable": true,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.3,
+          "tags": [
+            "Warm",
+            "Comfort Food"
+          ],
+          "addons": [
+            {
+              "id": 881,
+              "name": "Vanilla Custard",
+              "price": 30
+            },
+            {
+              "id": 882,
+              "name": "Caramel Drizzle",
+              "price": 20
+            }
+          ]
+        },
+        {
+          "id": 89,
+          "name": "Hot Chocolate",
+          "description": "Rich hot chocolate topped with whipped cream and marshmallows",
+          "price": 120,
+          "discounted_price": 84,
+          "image_url": "https://images.unsplash.com/photo-1542990253-0d0f5f0436a9",
+          "veg": true,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": true,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.6,
+          "tags": [
+            "Hot",
+            "Beverage"
+          ],
+          "addons": [
+            {
+              "id": 891,
+              "name": "Extra Marshmallows",
+              "price": 15
+            },
+            {
+              "id": 892,
+              "name": "Chocolate Syrup",
+              "price": 20
+            }
+          ]
+        },
+        {
+          "id": 90,
+          "name": "Cold Coffee",
+          "description": "Chilled coffee with ice cream and chocolate drizzle",
+          "price": 140,
+          "discounted_price": 98,
+          "image_url": "https://images.unsplash.com/photo-1572442388796-11668a67e53d",
+          "veg": true,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": true,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.7,
+          "tags": [
+            "Cold",
+            "Refreshing"
+          ],
+          "addons": [
+            {
+              "id": 901,
+              "name": "Extra Ice Cream",
+              "price": 30
+            },
+            {
+              "id": 902,
+              "name": "Caramel Shot",
+              "price": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Pasta Paradise",
+      "cuisines": [
+        "Italian",
+        "Pizza",
+        "Pasta"
+      ],
+      "rating": 4.3,
+      "delivery_time": 35,
+      "price_for_two": 550,
+      "discount": {
+        "type": "PERCENTAGE",
+        "value": 25,
+        "max_discount": 125,
+        "description": "25% off up to ₹125"
+      },
+      "address": "42 Olive Garden Road, Italian Quarter",
+      "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5",
+      "cover_image": "https://images.unsplash.com/photo-1498579809087-ef1e558fd1da",
+      "logo_image": "https://images.unsplash.com/photo-1595854341625-f33ee10dbf94",
+      "pure_veg": false,
+      "promoted": true,
+      "new_arrival": false,
+      "favorite": true,
+      "delivery_fee": 40,
+      "is_open": true,
+      "tags": [
+        "Authentic",
+        "Premium"
+      ],
+      "offers": [
+        {
+          "id": 901,
+          "description": "Free garlic bread on orders above ₹500",
+          "code": "FREEBREAD",
+          "discount_type": "ITEM",
+          "discount_value": 100,
+          "min_order_value": 500,
+          "max_discount": 100
+        },
+        {
+          "id": 902,
+          "description": "₹150 off on orders above ₹800",
+          "code": "ITALIAN150",
+          "discount_type": "FLAT",
+          "discount_value": 150,
+          "min_order_value": 800,
+          "max_discount": 150
+        }
+      ],
+      "menu_categories": [
+        {
+          "id": 9001,
+          "name": "Recommended",
+          "items": [
+            91,
+            94,
+            96,
+            99
+          ]
+        },
+        {
+          "id": 9002,
+          "name": "Starters",
+          "items": [
+            91,
+            92,
+            93
+          ]
+        },
+        {
+          "id": 9003,
+          "name": "Pizza",
+          "items": [
+            94,
+            95
+          ]
+        },
+        {
+          "id": 9004,
+          "name": "Pasta",
+          "items": [
+            96,
+            97,
+            98
+          ]
+        },
+        {
+          "id": 9005,
+          "name": "Desserts",
+          "items": [
+            99,
+            100
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": 91,
+          "name": "Bruschetta",
+          "description": "Toasted bread topped with fresh tomatoes, basil, and olive oil",
+          "price": 180,
+          "discounted_price": 135,
+          "image_url": "https://images.unsplash.com/photo-1572695157366-5e585ab2b69f",
+          "veg": true,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": false,
+          "serves": "2 people",
+          "availability": true,
+          "rating": 4.5,
+          "tags": [
+            "Appetizer",
+            "Light"
+          ],
+          "addons": [
+            {
+              "id": 911,
+              "name": "Extra Cheese",
+              "price": 40
+            },
+            {
+              "id": 912,
+              "name": "Balsamic Glaze",
+              "price": 25
+            }
+          ]
+        },
+        {
+          "id": 92,
+          "name": "Garlic Bread",
+          "description": "Freshly baked bread with garlic butter and herbs",
+          "price": 150,
+          "discounted_price": 112,
+          "image_url": "https://images.unsplash.com/photo-1619535860434-da73a35c3583",
+          "veg": true,
+          "bestseller": false,
+          "spicy_level": 0,
+          "customizable": true,
+          "serves": "2 people",
+          "availability": true,
+          "rating": 4.2,
+          "tags": [
+            "Appetizer",
+            "Shareable"
+          ],
+          "addons": [
+            {
+              "id": 921,
+              "name": "Cheese Topping",
+              "price": 40
+            },
+            {
+              "id": 922,
+              "name": "Marinara Dip",
+              "price": 30
+            }
+          ]
+        },
+        {
+          "id": 93,
+          "name": "Caprese Salad",
+          "description": "Fresh mozzarella, tomatoes, and basil drizzled with balsamic glaze",
+          "price": 220,
+          "discounted_price": 165,
+          "image_url": "https://images.unsplash.com/photo-1564671165093-20688ff1fffa",
+          "veg": true,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": false,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.4,
+          "tags": [
+            "Fresh",
+            "Healthy"
+          ],
+          "addons": [
+            {
+              "id": 931,
+              "name": "Extra Mozzarella",
+              "price": 60
+            },
+            {
+              "id": 932,
+              "name": "Olives",
+              "price": 30
+            }
+          ]
+        },
+        {
+          "id": 94,
+          "name": "Margherita Pizza",
+          "description": "Classic pizza with tomato sauce, mozzarella, and fresh basil",
+          "price": 300,
+          "discounted_price": 225,
+          "image_url": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002",
+          "veg": true,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": true,
+          "serves": "2 people",
+          "availability": true,
+          "rating": 4.7,
+          "tags": [
+            "Classic",
+            "Bestseller"
+          ],
+          "addons": [
+            {
+              "id": 941,
+              "name": "Extra Cheese",
+              "price": 50
+            },
+            {
+              "id": 942,
+              "name": "Mushrooms",
+              "price": 40
+            },
+            {
+              "id": 943,
+              "name": "Olives",
+              "price": 30
+            }
+          ]
+        },
+        {
+          "id": 95,
+          "name": "Pepperoni Pizza",
+          "description": "Pizza topped with tomato sauce, mozzarella, and pepperoni slices",
+          "price": 350,
+          "discounted_price": 262,
+          "image_url": "https://images.unsplash.com/photo-1628840042765-356cda07504e",
+          "veg": false,
+          "bestseller": true,
+          "spicy_level": 2,
+          "customizable": true,
+          "serves": "2 people",
+          "availability": true,
+          "rating": 4.6,
+          "tags": [
+            "Meaty",
+            "Popular"
+          ],
+          "addons": [
+            {
+              "id": 951,
+              "name": "Extra Pepperoni",
+              "price": 60
+            },
+            {
+              "id": 952,
+              "name": "Jalapeños",
+              "price": 30
+            },
+            {
+              "id": 953,
+              "name": "Bell Peppers",
+              "price": 35
+            }
+          ]
+        },
+        {
+          "id": 96,
+          "name": "Spaghetti Carbonara",
+          "description": "Spaghetti with creamy sauce, pancetta, egg, and parmesan",
+          "price": 280,
+          "discounted_price": 210,
+          "image_url": "https://images.unsplash.com/photo-1612874742237-6526221588e3",
+          "veg": false,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": true,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.5,
+          "tags": [
+            "Creamy",
+            "Classic"
+          ],
+          "addons": [
+            {
+              "id": 961,
+              "name": "Extra Pancetta",
+              "price": 50
+            },
+            {
+              "id": 962,
+              "name": "Extra Parmesan",
+              "price": 30
+            }
+          ]
+        },
+        {
+          "id": 97,
+          "name": "Penne Arrabbiata",
+          "description": "Penne pasta in spicy tomato sauce with garlic and herbs",
+          "price": 250,
+          "discounted_price": 187,
+          "image_url": "https://images.unsplash.com/photo-1608897013039-887f21d8c804",
+          "veg": true,
+          "bestseller": false,
+          "spicy_level": 3,
+          "customizable": true,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.3,
+          "tags": [
+            "Spicy",
+            "Vegetarian"
+          ],
+          "addons": [
+            {
+              "id": 971,
+              "name": "Grated Parmesan",
+              "price": 30
+            },
+            {
+              "id": 972,
+              "name": "Olives",
+              "price": 35
+            }
+          ]
+        },
+        {
+          "id": 98,
+          "name": "Fettuccine Alfredo",
+          "description": "Fettuccine pasta in creamy Alfredo sauce",
+          "price": 270,
+          "discounted_price": 202,
+          "image_url": "https://images.unsplash.com/photo-1645112411341-6c4fd023882a",
+          "veg": true,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": true,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.4,
+          "tags": [
+            "Creamy",
+            "Rich"
+          ],
+          "addons": [
+            {
+              "id": 981,
+              "name": "Grilled Chicken",
+              "price": 60
+            },
+            {
+              "id": 982,
+              "name": "Mushrooms",
+              "price": 40
+            },
+            {
+              "id": 983,
+              "name": "Broccoli",
+              "price": 30
+            }
+          ]
+        },
+        {
+          "id": 99,
+          "name": "Tiramisu",
+          "description": "Classic Italian dessert with coffee-soaked ladyfingers and mascarpone",
+          "price": 200,
+          "discounted_price": 150,
+          "image_url": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9",
+          "veg": true,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": false,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.8,
+          "tags": [
+            "Classic",
+            "Bestseller"
+          ],
+          "addons": [
+            {
+              "id": 991,
+              "name": "Chocolate Shavings",
+              "price": 20
+            }
+          ]
+        },
+        {
+          "id": 100,
+          "name": "Panna Cotta",
+          "description": "Creamy Italian dessert with berry compote",
+          "price": 180,
+          "discounted_price": 135,
+          "image_url": "https://images.unsplash.com/photo-1488477181946-6428a0291777",
+          "veg": true,
+          "bestseller": false,
+          "spicy_level": 0,
+          "customizable": false,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.2,
+          "tags": [
+            "Creamy",
+            "Light"
+          ],
+          "addons": [
+            {
+              "id": 1001,
+              "name": "Extra Berry Compote",
+              "price": 30
+            },
+            {
+              "id": 1002,
+              "name": "Caramel Sauce",
+              "price": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Taco Fiesta",
+      "cuisines": [
+        "Mexican",
+        "Tex-Mex",
+        "Fast Food"
+      ],
+      "rating": 4.4,
+      "delivery_time": 25,
+      "price_for_two": 400,
+      "discount": {
+        "type": "FLAT",
+        "value": 100,
+        "max_discount": 100,
+        "description": "Flat ₹100 off on orders above ₹350"
+      },
+      "address": "87 Sombrero Street, Spice District",
+      "image_url": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47",
+      "cover_image": "https://images.unsplash.com/photo-1613514785940-daed77081595",
+      "logo_image": "https://images.unsplash.com/photo-1586998373657-7e8d052fe35f",
+      "pure_veg": false,
+      "promoted": true,
+      "new_arrival": false,
+      "favorite": false,
+      "delivery_fee": 30,
+      "is_open": true,
+      "tags": [
+        "Spicy",
+        "Popular"
+      ],
+      "offers": [
+        {
+          "id": 1001,
+          "description": "Free nachos on orders above ₹400",
+          "code": "NACHOS",
+          "discount_type": "ITEM",
+          "discount_value": 120,
+          "min_order_value": 400,
+          "max_discount": 120
+        },
+        {
+          "id": 1002,
+          "description": "20% off on combo meals",
+          "code": "COMBO20",
+          "discount_type": "PERCENTAGE",
+          "discount_value": 20,
+          "min_order_value": 300,
+          "max_discount": 80
+        }
+      ],
+      "menu_categories": [
+        {
+          "id": 10001,
+          "name": "Recommended",
+          "items": [
+            101,
+            103,
+            106,
+            109
+          ]
+        },
+        {
+          "id": 10002,
+          "name": "Starters",
+          "items": [
+            101,
+            102
+          ]
+        },
+        {
+          "id": 10003,
+          "name": "Tacos",
+          "items": [
+            103,
+            104,
+            105
+          ]
+        },
+        {
+          "id": 10004,
+          "name": "Burritos",
+          "items": [
+            106,
+            107
+          ]
+        },
+        {
+          "id": 10005,
+          "name": "Sides & Desserts",
+          "items": [
+            108,
+            109,
+            110
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": 101,
+          "name": "Loaded Nachos",
+          "description": "Crispy tortilla chips topped with cheese, jalapeños, salsa, guacamole, and sour cream",
+          "price": 180,
+          "discounted_price": 80,
+          "image_url": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d",
+          "veg": true,
+          "bestseller": true,
+          "spicy_level": 2,
+          "customizable": true,
+          "serves": "2 people",
+          "availability": true,
+          "rating": 4.6,
+          "tags": [
+            "Shareable",
+            "Bestseller"
+          ],
+          "addons": [
+            {
+              "id": 1011,
+              "name": "Extra Cheese",
+              "price": 40
+            },
+            {
+              "id": 1012,
+              "name": "Extra Guacamole",
+              "price": 50
+            },
+            {
+              "id": 1013,
+              "name": "Ground Beef",
+              "price": 60
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "name": "Jalapeño Poppers",
+          "description": "Breaded jalapeños stuffed with cheese and served with dipping sauce",
+          "price": 150,
+          "discounted_price": 50,
+          "image_url": "https://images.unsplash.com/photo-1594149634301-0c545862693f",
+          "veg": true,
+          "bestseller": false,
+          "spicy_level": 3,
+          "customizable": false,
+          "serves": "2 people",
+          "availability": true,
+          "rating": 4.3,
+          "tags": [
+            "Spicy",
+            "Appetizer"
+          ],
+          "addons": [
+            {
+              "id": 1021,
+              "name": "Ranch Dip",
+              "price": 25
+            },
+            {
+              "id": 1022,
+              "name": "Chipotle Mayo",
+              "price": 30
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "name": "Chicken Tacos",
+          "description": "Three soft corn tortillas with grilled chicken, lettuce, pico de gallo, and cheese",
+          "price": 220,
+          "discounted_price": 120,
+          "image_url": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b",
+          "veg": false,
+          "bestseller": true,
+          "spicy_level": 2,
+          "customizable": true,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.7,
+          "tags": [
+            "Popular",
+            "Classic"
+          ],
+          "addons": [
+            {
+              "id": 1031,
+              "name": "Guacamole",
+              "price": 40
+            },
+            {
+              "id": 1032,
+              "name": "Sour Cream",
+              "price": 30
+            },
+            {
+              "id": 1033,
+              "name": "Extra Chicken",
+              "price": 50
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "name": "Beef Tacos",
+          "description": "Three crispy corn shells with seasoned ground beef, lettuce, tomato, and cheese",
+          "price": 240,
+          "discounted_price": 140,
+          "image_url": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47",
+          "veg": false,
+          "bestseller": true,
+          "spicy_level": 2,
+          "customizable": true,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.5,
+          "tags": [
+            "Meaty",
+            "Crunchy"
+          ],
+          "addons": [
+            {
+              "id": 1041,
+              "name": "Guacamole",
+              "price": 40
+            },
+            {
+              "id": 1042,
+              "name": "Jalapeños",
+              "price": 20
+            },
+            {
+              "id": 1043,
+              "name": "Extra Beef",
+              "price": 60
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "name": "Veggie Tacos",
+          "description": "Three soft tortillas with sautéed bell peppers, onions, beans, and avocado",
+          "price": 200,
+          "discounted_price": 100,
+          "image_url": "https://images.unsplash.com/photo-1552332386-f8dd00dc2f85",
+          "veg": true,
+          "bestseller": false,
+          "spicy_level": 1,
+          "customizable": true,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.2,
+          "tags": [
+            "Vegetarian",
+            "Healthy"
+          ],
+          "addons": [
+            {
+              "id": 1051,
+              "name": "Extra Cheese",
+              "price": 30
+            },
+            {
+              "id": 1052,
+              "name": "Sour Cream",
+              "price": 25
+            },
+            {
+              "id": 1053,
+              "name": "Pico de Gallo",
+              "price": 20
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "name": "Chicken Burrito",
+          "description": "Large flour tortilla filled with grilled chicken, rice, beans, cheese, and salsa",
+          "price": 250,
+          "discounted_price": 150,
+          "image_url": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f",
+          "veg": false,
+          "bestseller": true,
+          "spicy_level": 2,
+          "customizable": true,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.6,
+          "tags": [
+            "Filling",
+            "Bestseller"
+          ],
+          "addons": [
+            {
+              "id": 1061,
+              "name": "Guacamole",
+              "price": 40
+            },
+            {
+              "id": 1062,
+              "name": "Sour Cream",
+              "price": 30
+            },
+            {
+              "id": 1063,
+              "name": "Extra Chicken",
+              "price": 50
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "name": "Veggie Burrito Bowl",
+          "description": "Rice, beans, roasted vegetables, corn, guacamole, and salsa in a bowl",
+          "price": 220,
+          "discounted_price": 120,
+          "image_url": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d",
+          "veg": true,
+          "bestseller": false,
+          "spicy_level": 1,
+          "customizable": true,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.3,
+          "tags": [
+            "Vegetarian",
+            "Healthy"
+          ],
+          "addons": [
+            {
+              "id": 1071,
+              "name": "Extra Guacamole",
+              "price": 40
+            },
+            {
+              "id": 1072,
+              "name": "Sour Cream",
+              "price": 30
+            },
+            {
+              "id": 1073,
+              "name": "Tortilla Chips",
+              "price": 35
+            }
+          ]
+        },
+        {
+          "id": 108,
+          "name": "Mexican Rice",
+          "description": "Flavorful rice cooked with tomatoes, onions, and spices",
+          "price": 100,
+          "discounted_price": 0,
+          "image_url": "https://images.unsplash.com/photo-1626200419199-391ae4be7a41",
+          "veg": true,
+          "bestseller": false,
+          "spicy_level": 1,
+          "customizable": false,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.0,
+          "tags": [
+            "Side",
+            "Classic"
+          ],
+          "addons": [
+            {
+              "id": 1081,
+              "name": "Extra Salsa",
+              "price": 20
+            }
+          ]
+        },
+        {
+          "id": 109,
+          "name": "Churros",
+          "description": "Fried dough pastry dusted with cinnamon sugar and served with chocolate dip",
+          "price": 150,
+          "discounted_price": 50,
+          "image_url": "https://images.unsplash.com/photo-1624471488440-d21491e72520",
+          "veg": true,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": false,
+          "serves": "2 people",
+          "availability": true,
+          "rating": 4.8,
+          "tags": [
+            "Dessert",
+            "Sweet"
+          ],
+          "addons": [
+            {
+              "id": 1091,
+              "name": "Extra Chocolate Sauce",
+              "price": 25
+            },
+            {
+              "id": 1092,
+              "name": "Caramel Dip",
+              "price": 30
+            }
+          ]
+        },
+        {
+          "id": 110,
+          "name": "Mexican Hot Chocolate",
+          "description": "Rich hot chocolate with cinnamon and a hint of chili",
+          "price": 120,
+          "discounted_price": 20,
+          "image_url": "https://images.unsplash.com/photo-1611057683499-55d8a1ba148d",
+          "veg": true,
+          "bestseller": false,
+          "spicy_level": 1,
+          "customizable": false,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.2,
+          "tags": [
+            "Beverage",
+            "Warm"
+          ],
+          "addons": [
+            {
+              "id": 1101,
+              "name": "Whipped Cream",
+              "price": 20
+            },
+            {
+              "id": 1102,
+              "name": "Marshmallows",
+              "price": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Sushi Sensation",
+      "cuisines": [
+        "Japanese",
+        "Sushi",
+        "Asian"
+      ],
+      "rating": 4.6,
+      "delivery_time": 35,
+      "price_for_two": 1200,
+      "discount": {
+        "type": "PERCENTAGE",
+        "value": 20,
+        "max_discount": 200,
+        "description": "20% off on orders above ₹800"
+      },
+      "address": "42 Sakura Avenue, Seafood District",
+      "image_url": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c",
+      "cover_image": "https://images.unsplash.com/photo-1611143669185-af224c5e3252",
+      "logo_image": "https://images.unsplash.com/photo-1558985212-91f40e2a092d",
+      "pure_veg": false,
+      "promoted": true,
+      "new_arrival": true,
+      "favorite": false,
+      "delivery_fee": 50,
+      "is_open": true,
+      "tags": [
+        "Premium",
+        "Fresh"
+      ],
+      "offers": [
+        {
+          "id": 1101,
+          "description": "Free miso soup on orders above ₹1000",
+          "code": "MISOFREE",
+          "discount_type": "ITEM",
+          "discount_value": 150,
+          "min_order_value": 1000,
+          "max_discount": 150
+        },
+        {
+          "id": 1102,
+          "description": "15% off on sashimi platters",
+          "code": "SASHIMI15",
+          "discount_type": "PERCENTAGE",
+          "discount_value": 15,
+          "min_order_value": 600,
+          "max_discount": 180
+        }
+      ],
+      "menu_categories": [
+        {
+          "id": 11001,
+          "name": "Recommended",
+          "items": [
+            111,
+            113,
+            116,
+            119
+          ]
+        },
+        {
+          "id": 11002,
+          "name": "Rolls",
+          "items": [
+            111,
+            112,
+            113
+          ]
+        },
+        {
+          "id": 11003,
+          "name": "Nigiri & Sashimi",
+          "items": [
+            114,
+            115,
+            116
+          ]
+        },
+        {
+          "id": 11004,
+          "name": "Sides & Soups",
+          "items": [
+            117,
+            118
+          ]
+        },
+        {
+          "id": 11005,
+          "name": "Platters & Desserts",
+          "items": [
+            119,
+            120
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": 111,
+          "name": "California Roll",
+          "description": "Classic sushi roll with crab, avocado, and cucumber",
+          "price": 350,
+          "discounted_price": 350,
+          "image_url": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351",
+          "veg": false,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": true,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.5,
+          "tags": [
+            "Popular",
+            "Classic"
+          ],
+          "addons": [
+            {
+              "id": 1111,
+              "name": "Extra Wasabi",
+              "price": 30
+            },
+            {
+              "id": 1112,
+              "name": "Extra Ginger",
+              "price": 25
+            },
+            {
+              "id": 1113,
+              "name": "Spicy Mayo",
+              "price": 35
+            }
+          ]
+        },
+        {
+          "id": 112,
+          "name": "Dragon Roll",
+          "description": "Eel and cucumber topped with avocado",
+          "price": 450,
+          "discounted_price": 450,
+          "image_url": "https://images.unsplash.com/photo-1617196034183-421b4917c92d",
+          "veg": false,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": true,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.7,
+          "tags": [
+            "Premium",
+            "Signature"
+          ],
+          "addons": [
+            {
+              "id": 1121,
+              "name": "Extra Eel",
+              "price": 100
+            },
+            {
+              "id": 1122,
+              "name": "Extra Avocado",
+              "price": 50
+            },
+            {
+              "id": 1123,
+              "name": "Eel Sauce",
+              "price": 40
+            }
+          ]
+        },
+        {
+          "id": 113,
+          "name": "Spicy Tuna Roll",
+          "description": "Fresh tuna with spicy mayo",
+          "price": 400,
+          "discounted_price": 400,
+          "image_url": "https://images.unsplash.com/photo-1633478062482-617af6404fb3",
+          "veg": false,
+          "bestseller": false,
+          "spicy_level": 3,
+          "customizable": true,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.6,
+          "tags": [
+            "Spicy",
+            "Popular"
+          ],
+          "addons": [
+            {
+              "id": 1131,
+              "name": "Extra Tuna",
+              "price": 80
+            },
+            {
+              "id": 1132,
+              "name": "Less Spicy",
+              "price": 0
+            },
+            {
+              "id": 1133,
+              "name": "Extra Spicy",
+              "price": 20
+            }
+          ]
+        },
+        {
+          "id": 114,
+          "name": "Salmon Nigiri",
+          "description": "Fresh salmon over pressed rice",
+          "price": 300,
+          "discounted_price": 300,
+          "image_url": "https://images.unsplash.com/photo-1534482421-64566f976cfa",
+          "veg": false,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": false,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.8,
+          "tags": [
+            "Fresh",
+            "Classic"
+          ],
+          "addons": [
+            {
+              "id": 1141,
+              "name": "Soy Sauce",
+              "price": 15
+            },
+            {
+              "id": 1142,
+              "name": "Wasabi",
+              "price": 20
+            }
+          ]
+        },
+        {
+          "id": 115,
+          "name": "Tuna Nigiri",
+          "description": "Premium tuna over pressed rice",
+          "price": 320,
+          "discounted_price": 320,
+          "image_url": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351",
+          "veg": false,
+          "bestseller": false,
+          "spicy_level": 0,
+          "customizable": false,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.6,
+          "tags": [
+            "Fresh",
+            "Classic"
+          ],
+          "addons": [
+            {
+              "id": 1151,
+              "name": "Soy Sauce",
+              "price": 15
+            },
+            {
+              "id": 1152,
+              "name": "Wasabi",
+              "price": 20
+            }
+          ]
+        },
+        {
+          "id": 116,
+          "name": "Sashimi Deluxe",
+          "description": "Chef's selection of fresh raw fish",
+          "price": 650,
+          "discounted_price": 550,
+          "image_url": "https://images.unsplash.com/photo-1584278638446-1eb6e4a372bc",
+          "veg": false,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": false,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.9,
+          "tags": [
+            "Premium",
+            "Bestseller"
+          ],
+          "addons": [
+            {
+              "id": 1161,
+              "name": "Extra Wasabi",
+              "price": 30
+            },
+            {
+              "id": 1162,
+              "name": "Extra Ginger",
+              "price": 25
+            },
+            {
+              "id": 1163,
+              "name": "Ponzu Sauce",
+              "price": 40
+            }
+          ]
+        },
+        {
+          "id": 117,
+          "name": "Miso Soup",
+          "description": "Traditional Japanese soup with tofu and seaweed",
+          "price": 150,
+          "discounted_price": 150,
+          "image_url": "https://images.unsplash.com/photo-1607301406259-dfb186e15de8",
+          "veg": true,
+          "bestseller": false,
+          "spicy_level": 0,
+          "customizable": false,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.3,
+          "tags": [
+            "Soup",
+            "Starter"
+          ],
+          "addons": [
+            {
+              "id": 1171,
+              "name": "Extra Tofu",
+              "price": 30
+            },
+            {
+              "id": 1172,
+              "name": "Extra Seaweed",
+              "price": 20
+            }
+          ]
+        },
+        {
+          "id": 118,
+          "name": "Edamame",
+          "description": "Steamed soybeans with sea salt",
+          "price": 200,
+          "discounted_price": 200,
+          "image_url": "https://images.unsplash.com/photo-1627308573870-fd3b1a0b111a",
+          "veg": true,
+          "bestseller": false,
+          "spicy_level": 0,
+          "customizable": true,
+          "serves": "2 people",
+          "availability": true,
+          "rating": 4.2,
+          "tags": [
+            "Appetizer",
+            "Healthy"
+          ],
+          "addons": [
+            {
+              "id": 1181,
+              "name": "Spicy Garlic",
+              "price": 40
+            },
+            {
+              "id": 1182,
+              "name": "Yuzu Flavor",
+              "price": 45
+            }
+          ]
+        },
+        {
+          "id": 119,
+          "name": "Tempura Platter",
+          "description": "Assorted vegetables and shrimp in light batter",
+          "price": 500,
+          "discounted_price": 500,
+          "image_url": "https://images.unsplash.com/photo-1581184953963-d15bbbe0b694",
+          "veg": false,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": true,
+          "serves": "2 people",
+          "availability": true,
+          "rating": 4.7,
+          "tags": [
+            "Hot",
+            "Crispy"
+          ],
+          "addons": [
+            {
+              "id": 1191,
+              "name": "Extra Shrimp",
+              "price": 120
+            },
+            {
+              "id": 1192,
+              "name": "Tempura Sauce",
+              "price": 30
+            }
+          ]
+        },
+        {
+          "id": 120,
+          "name": "Green Tea Ice Cream",
+          "description": "Authentic Japanese green tea flavored ice cream",
+          "price": 180,
+          "discounted_price": 180,
+          "image_url": "https://images.unsplash.com/photo-1505394033641-40c6ad1178d7",
+          "veg": true,
+          "bestseller": true,
+          "spicy_level": 0,
+          "customizable": false,
+          "serves": "1 person",
+          "availability": true,
+          "rating": 4.5,
+          "tags": [
+            "Dessert",
+            "Cold"
+          ],
+          "addons": [
+            {
+              "id": 1201,
+              "name": "Red Bean Paste",
+              "price": 35
+            },
+            {
+              "id": 1202,
+              "name": "Mochi Pieces",
+              "price": 45
+            }
+          ]
         }
       ]
     }
   ],
   "filters": {
     "sort_by": [
-      {"id": 1, "name": "Relevance", "default": true},
-      {"id": 2, "name": "Delivery Time"},
-      {"id": 3, "name": "Rating"},
-      {"id": 4, "name": "Cost: Low to High"},
-      {"id": 5, "name": "Cost: High to Low"}
+      {
+        "id": 1,
+        "name": "Relevance",
+        "default": true
+      },
+      {
+        "id": 2,
+        "name": "Delivery Time"
+      },
+      {
+        "id": 3,
+        "name": "Rating"
+      },
+      {
+        "id": 4,
+        "name": "Cost: Low to High"
+      },
+      {
+        "id": 5,
+        "name": "Cost: High to Low"
+      }
     ],
     "cuisines": [
-      {"id": 1, "name": "North Indian"},
-      {"id": 2, "name": "South Indian"},
-      {"id": 3, "name": "Chinese"},
-      {"id": 4, "name": "Fast Food"},
-      {"id": 5, "name": "Pizza"},
-      {"id": 6, "name": "Biryani"},
-      {"id": 7, "name": "Desserts"},
-      {"id": 8, "name": "Beverages"},
-      {"id": 9, "name": "Italian"},
-      {"id": 10, "name": "Continental"},
-      {"id": 11, "name": "Mughlai"},
-      {"id": 12, "name": "Thai"},
-      {"id": 13, "name": "Mexican"},
-      {"id": 14, "name": "Japanese"},
-      {"id": 15, "name": "Middle Eastern"}
+      {
+        "id": 1,
+        "name": "North Indian"
+      },
+      {
+        "id": 2,
+        "name": "South Indian"
+      },
+      {
+        "id": 3,
+        "name": "Chinese"
+      },
+      {
+        "id": 4,
+        "name": "Fast Food"
+      },
+      {
+        "id": 5,
+        "name": "Pizza"
+      },
+      {
+        "id": 6,
+        "name": "Biryani"
+      },
+      {
+        "id": 7,
+        "name": "Desserts"
+      },
+      {
+        "id": 8,
+        "name": "Beverages"
+      },
+      {
+        "id": 9,
+        "name": "Italian"
+      },
+      {
+        "id": 10,
+        "name": "Continental"
+      },
+      {
+        "id": 11,
+        "name": "Mughlai"
+      },
+      {
+        "id": 12,
+        "name": "Thai"
+      },
+      {
+        "id": 13,
+        "name": "Mexican"
+      },
+      {
+        "id": 14,
+        "name": "Japanese"
+      },
+      {
+        "id": 15,
+        "name": "Middle Eastern"
+      }
     ],
     "offer_types": [
-      {"id": 1, "name": "Percentage Discount"},
-      {"id": 2, "name": "Flat Discount"},
-      {"id": 3, "name": "Free Delivery"},
-      {"id": 4, "name": "Buy One Get One"}
+      {
+        "id": 1,
+        "name": "Percentage Discount"
+      },
+      {
+        "id": 2,
+        "name": "Flat Discount"
+      },
+      {
+        "id": 3,
+        "name": "Free Delivery"
+      },
+      {
+        "id": 4,
+        "name": "Buy One Get One"
+      }
     ],
     "dietary": [
-      {"id": 1, "name": "Veg Only"},
-      {"id": 2, "name": "Contains Egg"},
-      {"id": 3, "name": "Non-Veg"}
+      {
+        "id": 1,
+        "name": "Veg Only"
+      },
+      {
+        "id": 2,
+        "name": "Contains Egg"
+      },
+      {
+        "id": 3,
+        "name": "Non-Veg"
+      }
     ],
     "cost_for_two": [
-      {"id": 1, "name": "Less than ₹300"},
-      {"id": 2, "name": "₹300 - ₹600"},
-      {"id": 3, "name": "₹600 - ₹1000"},
-      {"id": 4, "name": "₹1000+"}
+      {
+        "id": 1,
+        "name": "Less than ₹300"
+      },
+      {
+        "id": 2,
+        "name": "₹300 - ₹600"
+      },
+      {
+        "id": 3,
+        "name": "₹600 - ₹1000"
+      },
+      {
+        "id": 4,
+        "name": "₹1000+"
+      }
     ],
     "rating": [
-      {"id": 1, "name": "4.5+"},
-      {"id": 2, "name": "4.0+"},
-      {"id": 3, "name": "3.5+"},
-      {"id": 4, "name": "3.0+"}
+      {
+        "id": 1,
+        "name": "4.5+"
+      },
+      {
+        "id": 2,
+        "name": "4.0+"
+      },
+      {
+        "id": 3,
+        "name": "3.5+"
+      },
+      {
+        "id": 4,
+        "name": "3.0+"
+      }
     ],
     "delivery_time": [
-      {"id": 1, "name": "Less than 30 mins"},
-      {"id": 2, "name": "30-45 mins"},
-      {"id": 3, "name": "45+ mins"}
+      {
+        "id": 1,
+        "name": "Less than 30 mins"
+      },
+      {
+        "id": 2,
+        "name": "30-45 mins"
+      },
+      {
+        "id": 3,
+        "name": "45+ mins"
+      }
     ]
   }
 }
